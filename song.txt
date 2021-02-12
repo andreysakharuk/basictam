@@ -1,4 +1,4 @@
-Sward and stones
+Sward and 
 wall of shields
 step by step
 don't shout and yield
@@ -16,4 +16,8 @@ Checking feature branch
 Master commit2
 Feature update2
 
+
 Rebase update
+
+stash
+
