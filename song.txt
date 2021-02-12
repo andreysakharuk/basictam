@@ -1,4 +1,4 @@
-Sward and stones
+Sward and 
 wall of shields
 step by step
 don't shout and yield
@@ -13,5 +13,5 @@ new new
 
 Checking feature branch
 
-Master update1
+Master commit2
 Feature update2
