@@ -14,7 +14,4 @@ new new
 Checking feature branch
 
 Master commit2
-Feature update1
-
-
-
+Feature update2
